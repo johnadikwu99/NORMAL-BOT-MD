@@ -729,6 +729,7 @@ zk.ev.on('group-participants.update', async (group) => {
     }
 });
 
+        
 /******** fin d'evenement groupe update *************************/
 
 
@@ -785,7 +786,23 @@ zk.ev.on('group-participants.update', async (group) => {
           return
         }
 
-        
+
+            //ANTICALL POPKID-MD 
+
+/*const zk = (0, baileys_1.default)(sockOptions);
+        store.bind(zk.ev);
+        setInterval(() => { store.writeToFile("store.json"); }, 3000);
+        zk.ev.on("call", async (callData) => {
+  if (conf.ANTICALL === 'yes') {
+    const callId = callData[0].id;
+    const callerId = callData[0].from;
+
+    await zk.rejectCall(callId, callerId);
+    await zk.sendMessage(callerId, {
+      text: "```❗📵 sᴏʀʀʏ ,ɴᴏ ᴄᴀʟʟs ᴀʀᴇ ᴀʟʟᴏᴡᴇᴅ ,ᴋɪɴᴅʟʏ ᴛᴇxᴛ, ᴛʜᴀɴᴋ ʏᴏᴜ.\n> 𝐏𝐎𝐊𝐈𝐃-𝐌𝐃 𝐁𝐎𝐓 © 𝟐𝟎𝟐𝟒 ."
+    });
+  }
+});*/
         //événement contact
         zk.ev.on("contacts.upsert", async (contacts) => {
             const insertContact = (newContact) => {
@@ -806,16 +823,16 @@ zk.ev.on('group-participants.update', async (group) => {
         zk.ev.on("connection.update", async (con) => {
             const { lastDisconnect, connection } = con;
             if (connection === "connecting") {
-                console.log("ℹ️ Anyway Md is connecting...");
+                console.log("ℹ️ popkid Md is connecting...");
             }
             else if (connection === 'open') {
-                console.log("✅ Anyway Md Connected to WhatsApp! ☺️");
+                console.log("✅ popkid Md Connected to WhatsApp! ☺️");
                 console.log("--");
                 await (0, baileys_1.delay)(200);
                 console.log("------");
                 await (0, baileys_1.delay)(300);
                 console.log("------------------/-----");
-                console.log("Anyway Md is Online 🕸\n\n");
+                console.log("popkif Md is Online 🕸\n\n");
                 //chargement des commandes 
                 console.log("Loading Anyway Commands ...\n");
                 fs.readdirSync(__dirname + "/commandes").forEach((fichier) => {
@@ -848,11 +865,21 @@ zk.ev.on('group-participants.update', async (group) => {
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
 
-                let cmsg =`      ❒─❒⁠⁠⁠⁠ *BOT-IS-RUNNING* ❒⁠⁠⁠⁠─⁠⁠⁠⁠❒⁠⁠⁠⁠
-╭❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠              
-❒⁠⁠⁠⁠ 𝑫𝑬𝑽   : *POPKID*   
-❒⁠⁠⁠⁠ 𝑩𝑶𝑻   : *POPKID-MD*
-╰❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠`;
+                let cmsg =`      await activateCrons();
+                
+                if((conf.DP).toLowerCase() === 'yes') {     
+                let cmsg = `ᴘᴏᴘᴋɪᴅ-ᴍᴅ ʙᴏᴛ ɪs ᴄᴏɴɴᴇᴄᴛᴇᴅ...
+
+ ╭────────────────◆
+ │  ᴘʀᴇғɪx : [ ${prefixe} ]
+ │  ᴍᴏᴅᴇ : ${md}
+ │  ᴘʟᴜɢɪɴs : 345
+ │  ᴘʟᴀᴛғᴏʀᴍ : ᴄʜʀᴏᴍᴇ(ᴜʙᴜɴᴛᴜ)
+ │  ᴅᴇᴠ : ᴘᴏᴘᴋɪᴅ ᴛᴇᴄʜ 254 🇰🇪
+ ╰─────────────────◆
+
+sᴜᴘᴘᴏʀᴛ ʙʏ sᴜʙsᴄʀɪʙɪɴɢ
+youtube.com/@popkid2024`;;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
             }
