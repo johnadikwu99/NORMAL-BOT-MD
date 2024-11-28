@@ -1,5 +1,17 @@
 #        𝐏𝐎𝐏𝐊𝐈𝐃 𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍𝐒
 
+  
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+
+<img align="center" height="auto"
+src="https://cardivo.vercel.app/api?name=POPKID%20MD%20V5&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20POPKID%20TECH%20432%20KING%20OF%20CODING%20OWNER%20OF%20POPKID%20MD%20WA%20BOT♥️&image=https://files.catbox.moe/5a2euh.jpg?v=4&backgroundColor=%23ecf0f1&github=popkid&pattern=leaf&colorPattern=%23eaeaea"/>
+   
+   
+   
    <a>
                                       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=1000&color=F71515&width=435&lines=BOT+100%25+LEGIT" alt="Typing SVG" /></a>   
             
