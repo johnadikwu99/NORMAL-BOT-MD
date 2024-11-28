@@ -8,7 +8,7 @@
 
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=POPKID%20MD%20V5&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20POPKID%20TECH%20432%20KING%20OF%20CODING%20OWNER%20OF%20POPKID%20MD%20WA%20BOT♥️&image=https://files.catbox.moe/5a2euh.jpg?v=4&backgroundColor=%23ecf0f1&github=popkid&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=POPKID%20MD%20V5&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20POPKID%20TECH%20432%20KING%20OF%20CODING%20OWNER%20OF%20POPKID%20MD%20WA%20BOT♥️&image=https://telegra.ph/file/4fe5da5003e390a58de5f.jpg?v=4&backgroundColor=%23ecf0f1&github=popkid&pattern=leaf&colorPattern=%23eaeaea"/>
    
    
    
