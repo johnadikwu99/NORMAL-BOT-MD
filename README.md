@@ -1,103 +1,107 @@
-#        𝐏𝐎𝐏𝐊𝐈𝐃 𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍𝐒
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-  
+## 💯𝐏𝐎𝐏𝐊𝐈𝐃 𝐌𝐃❤️
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▇+▇+▇+▇+▇+▇+▇)](https://git.io/typing-svg) 
+
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝐏𝐎𝐏𝐊𝐈𝐃+𝐌𝐃+⭕+𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐏𝐎𝐏𝐊𝐈𝐃)](https://git.io/typing-svg) 
+
+<p align="centre"><img src="https://i.ibb.co/KG7GSN5/23a53bc84ebf86fae0c17074810e3307.jpg"500" height="500" />
+
+
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=POPKID%20MD%20V5&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20POPKID%20TECH%20432%20KING%20OF%20CODING%20OWNER%20OF%20POPKID%20MD%20WA%20BOT♥️&image=https://telegra.ph/file/4fe5da5003e390a58de5f.jpg?v=4&backgroundColor=%23ecf0f1&github=popkid&pattern=leaf&colorPattern=%23eaeaea"/>
-   
-   
-   
-   <a>
-                                      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=1000&color=F71515&width=435&lines=BOT+100%25+LEGIT" alt="Typing SVG" /></a>   
-            
-<p align="center"> 
-<up A simple WhatsApp User Bot Coded By DAISY❤️</u>
+## 𝐇𝐎𝐖 𝐓𝐎 𝐏𝐀𝐈𝐑 𝐏𝐎𝐏𝐊𝐈𝐃 𝐌𝐃
+
+
+<p align="center">
+<a href="https://github.com/Popkiddevs/followers"><img title="Followers" src="https://img.shields.io/github/followers/Popkiddevs?color=blue&style=flat-square"></a>
+<a href="https://github.com/Popkiddevs/NORMAL-BOT-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Popkiddevs/NORMAL-BOT-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Popkiddevs/NORMAL-BOT-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Popkiddevs/NORMAL-BOT-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Popkiddevs/NORMAL-BOT-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Popkiddevs/NORMAL-BOT-MD?style=flat-square&color=blue"></a>
+<a href="https://github.com/Popkiddevs/NORMAL-BOT-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
-<p align="center">
-<img src="https://files.catbox.moe/yedfbr.jpg"/>       
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+POPKID-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DAISY❤️+MD+TECHS;RELEASED+DATE+07%2F7%2F2024."                               alt="Typing SVG" /></a>
-</p> 
-<p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-POPKID_TECH-red.svg?style=for-the-badge&logo=github"></a>
-</a>
+<p align='center'>
 </p>
-<p align="center">
-<a href="https://github.com/Popkiddevs"><img title="Author" src="https://img.shields.io/badge/POPKID-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/237656520674"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
-<p/>
 
- <p align="center">
-  <a href="https://kg-site-support.vercel.app/">
-    <img src="https://img.shields.io/badge/POPKID WEBSITE-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Generate Session ID"/>
-  </a>
+ <p align="center"><img src="https://profile-counter.glitch.me/{POPKID-MD}/count.svg" alt="Popkid :: Visitor's Count" old_src="https://profile-counter.glitch.me/{enzo}/count.svg" /></p>
+
+
+
+
+
+
+## HOW TO GET POPKID BOT
+
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
+ 
+
+  
    
-<p align="center">
-<a href="https://github.com/Popkiddevs/NORMAL-BOT-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Popkiddevs/NORMAL-BOT-MD?color=white&style=flat-square"></a>
-<a href="https://github.com/Popkiddevs/NORMAL-BOT-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Popkiddevs/NORMAL-BOT-MD?color=yellow&style=flat-square"></a>
-<a href="https://github.com/Popkiddevs/NORMAL-BOT-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Popkiddevs/NORMAL-BOT-MD?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/Janithsadanuwan/Queen-Nilu-Md/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Janithsadanuwan/Queen-Nilu-Md/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
-        <a href = ""><img alt="Popkid Tools" src="https://img.shields.io/youtube/channel/subscribers/UCjDKRYcwd5ZIpGICcVVL96Q" target="_blank" /></a>
-
-### 1. FORK THIS REPO
-
-<a href='https://github.com/Popkiddevs/NORMAL-BOT-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
-<p align="center">
-
-#### 𝐒𝐄𝐓𝐔𝐏
+   <a href="https://github.com/Popkiddevs/NORMAL-BOT-MD/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=blue&style=for-the-badge&logo=tesla" width="297" height="40.45"/></a></p>
 
 
-1.𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃 𝐅𝐑𝐎𝐌 𝐒𝐄𝐑𝐕𝐄𝐑
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<a href="https://popkid-sessions-generator-1iqg.onrender.com"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
-
-<a href="https://popkid-sessions-generator-1iqg.onrender.com"><img src="https://img.shields.io/badge/QR CODE-green" alt="Click Here to Get QR-Code" width="90"></a> 
-
-#### DEPLOY TO HEROKU 
-
-1. If You don't have a account in Heroku. Create a account.
-    <br>
-<a href='https://heroku.com' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Create-blue?style=for-the-badge&logo=heroku'/></a>
-   <br>
-2. Now Deploy
-    <br>
-<a href='https://heroku.com/deploy?template=https://github.com/Popkiddevs/NORMAL-BOT-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-green?style=for-the-badge&logo=heroku'/></a>
+ 
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗦𝗜𝗧𝗘+𝗜𝗦+𝗛𝗘𝗥𝗘)](https://git.io/typing-svg)
+ 
 
 
-#### DEPLOY ON RAILWAY
+  <a href="https://enzo-md-sessions-generator-1-b158.onrender.com"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>
 
-1. If You don't have a account in Railway. Create a account.
-    <br>
-<a href='https://railway.app' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=railway'/>
-2. Now Deploy
-    <br>
-<a href='https://railway.app' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=railway'/></a>
+  
+  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)](https://git.io/typing-svg)
 
-#### DEPLOY ON MOGENIUS
 
-1. If You don't have a account in Replit. Create a account.
-    <br>
-<a href='https://mogenius.com' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=genius'/></a>
-2. Now Deploy
-    <br>
-<a href='https://mogenius.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=genius'/></a>
+ 
+  
 
-  **Do not forget to give a star⭐️ please**
+ 
+## 𝐅𝐎𝐑 𝐎𝐍𝐄-𝐓𝐀𝐏 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐔𝐒𝐄 𝐓𝐇𝐈𝐒 𝐁𝐔𝐓𝐓𝐎𝐍
 
-### A special thank to
+   🕳IF YOU DON'T HAVE A HEROKU ACCOUNT...CREATE ONE
+   
+   <a href="https://signup.heroku.com/"><img title="CREATE-ACCOUNT" src="https://img.shields.io/badge/CREATE-ACCOUNT-h?color=purple&style=for-the-badge&logo=heroku" width="180" height="43.45"/></a></p>
 
-<details close>
-<summary>Read More</summary>
+   ☢️IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
 
-<br>
+ <a href="https://dashboard.heroku.com/new?template=https://github.com/Popkiddevs/NORMAL-BOT-MD"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-* [`GOD`](https://github.com/Popkiddevs)
-* ## Contact Dev of POPKID🤪
-* [`POPKID`](https://wa.me/254111385747?text=Hi+Bro+Rayan+Big+Fan😍)
-* [`POPKID`](https://wa.me/254732297194?text=Hi+Bro+Giffareno+Big+Fan😍)
- </details>
+ 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+## FINAL REMARKS ON MY REPO (STATS)
+
+![ Stats](https://github-readme-stats.vercel.app/api/pin/?username=Popkiddevs&repo=NORMAL-BOT-MD&show_owner=true&theme=dark)
+
+
+
+
+
+
+
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+## CONTACT POPKID HERE
+  DM FOR SERIOUS BUSINESS
+
+   <a href="https://github.com/Popkiddevs/NORMAL-BOT-MD-INFO"><img title="CONTACT-POPKID" src="https://img.shields.io/badge/CONTACT-POPKID-h?color=black&style=for-the-badge&logo=audi" width="240" height="45.45"/></a></p>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
