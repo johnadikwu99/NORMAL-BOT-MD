@@ -9,7 +9,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝐏𝐎𝐏𝐊𝐈𝐃+𝐌𝐃+⭕+𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐏𝐎𝐏𝐊𝐈𝐃)](https://git.io/typing-svg) 
 
-<p align="centre"><img src="https://i.ibb.co/KG7GSN5/23a53bc84ebf86fae0c17074810e3307.jpg"500" height="800" />
+<p align="centre"><img src="https://i.ibb.co/KG7GSN5/23a53bc84ebf86fae0c17074810e3307.jpg"500" height="600" />
 
 
 
